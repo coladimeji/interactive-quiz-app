@@ -1,3 +1,22 @@
+# Steps to Recreate
+# Open IDE
+# Open github and clone
+# github/coldimeji/interactive-quiz-app
+# check the version node -v
+NOTE: It must be between 18 and up.
+# open terminal
+# cd interactive-quiz-app
+# insert npm install
+# npm run dev
+
+
+
+
+
+
+https://github.com/user-attachments/assets/6ce7fc75-b482-40a7-96e7-00579d52681f
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
