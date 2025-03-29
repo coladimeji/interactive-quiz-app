@@ -1,0 +1,5 @@
+body {
+    /* This creates a white background using an inline data URI */
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////2wBDAf//////////////////////////////////////////////////////////////////////////////////////wAARCAABAAEDAREAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwQFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHn/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxEhMf/aAAgBAQABBQL0d3icKj//xAAXEQEAAwAAAAAAAAAAAAAAAAAAESEx/9oACAEDAQE/Ad+6/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/AYc//8QAHxAAAgIBBQEAAAAAAAAAAAAAAQIAAxEhMUFRgZH/2gAIAQEABj8ClESQEb3b3os+68LJf//Z");
+  }
+  
